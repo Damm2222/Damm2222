@@ -58,7 +58,7 @@
 </p>
 
 <p align="center" style="margin-bottom: 20px;">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=damm2222&" alt="damm2222" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=damm2222&&theme=onedark" alt="damm2222" />
 </p>
 
 <!--
