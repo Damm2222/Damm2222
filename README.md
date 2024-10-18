@@ -53,9 +53,7 @@
 
 
 
-<p align="center" style="margin-bottom: 20px;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=damm2222&show_icons=true&locale=en&theme=onedark" alt="damm2222" />
-</p>
+
 
 <p align="center" style="margin-bottom: 20px;">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=damm2222&&theme=onedark" alt="damm2222" />
