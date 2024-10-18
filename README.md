@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Damm2222](https://github-readme-stats.vercel.app/api/pin/?username=Damm2222&repo=tricard-app-readme-stats)](https://github.com/Damm2222/Damm2222/edit/main/README.md)
+[![Damm2222](https://github-readme-stats.vercel.app/api/pin/?username=Damm2222&repo=tricard-app)](https://github.com/Damm2222/Damm2222/edit/main/README.md)
 <!--
 **Damm2222/Damm2222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
