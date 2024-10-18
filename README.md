@@ -1,5 +1,6 @@
 ## Hi there 👋
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Damm2222&hide_progress=false)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Damm2222&layout=pie)](https://github.com/Damm2222/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Damm2222&hide_progress=true)
 <!--
 **Damm2222/Damm2222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
